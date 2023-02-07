@@ -1,1 +1,1 @@
-### REpository for learning Angular. Soon will be private
+### Repository for learning Angular. Soon will be private
